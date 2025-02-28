@@ -2,3 +2,7 @@
 # Simple program to display text
 
 print("Hello, World!")
+
+"""print(): Built-in function to output text to console
+Text in quotes " " denotes a string
+"""
