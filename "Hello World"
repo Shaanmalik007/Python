@@ -1,0 +1,4 @@
+# How to print a statment
+# Simple program to display text
+
+print("Hello, World!")
